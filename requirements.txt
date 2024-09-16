@@ -3,4 +3,10 @@ pandas
 scikit-learn
 joblib
 gunicorn
-flask_sqlalchemy
+Flask==2.3.2
+Flask-SQLAlchemy==3.0.5
+mysql-connector-python==8.0.33
+Flask-Login==0.6.3
+Flask-WTF==1.1.1
+WTForms==3.0.1
+Werkzeug==2.3.7
